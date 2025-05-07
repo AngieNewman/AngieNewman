@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning Python programming
+- 👯 I’m looking to collaborate on Python programming projects
+- 📫 How to reach me: angelanewmanboateng@gmail.com
